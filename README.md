@@ -1,15 +1,16 @@
-- 👋 Yo, I’m Ayush
-- 👀 I’m interested in programmin' 🐍
-- 🌱 I’m currently learning ethical mistakes...
-- 💞️ I’m lookin' to collaborate on nothin'...
-- 📫 How to reach me ? Anonymous Is The Identity...
+- Hey👋 Yo, I’m Aayush A Full Stack Anonymous Developer !
+- L👀k I’m interested in programmin',gamin',A.I,Developin',Hostin',Hackin',App Development,Web Hosting',Data Science, Crackin', Moddin',Cardin', bloggin', phishin', Cyberstalking!
+- 🏴 My Real Life Skills Are In C.S & Tecnology and I love Swimmin',Sleepin'Eatin',Enjoyin, Occasionally Partyin',Celebratin',HardWorkin' and Smartworkin !
+- 🌱 I’m currently pursuing my B.Sc as well as committing & learning my day to day ethical IRL mistakes...
+- 💞️ I’m lookin' to collaborate on nothin' coz i am collaborating on myself...
+- 📫 How to reach me ? Anonymous Is The Identity Dude... Privacy Is My Power...Didn't You Get Who Am I ?
 
 <!---
 Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <b> Yo...Yo...Yo... Programmers 🫀 ! 👨‍💻 <b>  </h2>
+<h2> <b> Yo...Programmers What's Up! 👨‍💻 <b>  </h2>
 
 <img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="350px" height="200">
 
