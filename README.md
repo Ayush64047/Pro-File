@@ -51,8 +51,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Generic badge](https://img.shields.io/badge/OUR_BOT.ping-@Mdisk_Links_Sender_Bot-BLACK.svg)](https://telegram.dog/Mdisk_Links_Sender_Bot)
 
-  [![Generic badge](https://img.shields.io/badge/Alternate_BOT.ping-@Mdisk_Links_Sender_Bot-BLACK.svg)](https://telegram.dog/Mdisk_Lin)
-  (https://telegram.dog/MdiskLinksSearchBot)
+  [![Generic badge](https://img.shields.io/badge/Alternate_BOT.ping-@Mdisk_Links_Search_Bot-BLACK.svg)](https://telegram.dog/Mdisk_LinkSearchBot)
+  
   
 ![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSharma64047&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)  
 
